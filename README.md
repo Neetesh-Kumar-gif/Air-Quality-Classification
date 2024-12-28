@@ -7,7 +7,7 @@ This project is a machine learning-based air quality classification model that p
 - [Target Variable](#target-variable)
 - [Approach](#approach)
 - [Results](#results)
-
+- [How to Run the Project](#how-to-run-the-project)
 
 
 - ## Overview
@@ -63,3 +63,12 @@ To tackle the problem of Air quality prediction, I employed a systematic machine
 - Best model: Random Forest Classifier tunned model
 - Accuracy: 96.6%
 - ROC-AUC: Class 0 (1.00), Class 1 (0.96), Class 2 (1.00), Class 3 (0.99)
+
+---
+
+## How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Air-Quality-Classification.git
+   cd Air-Quality-Classification
+
