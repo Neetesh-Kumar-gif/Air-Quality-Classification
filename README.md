@@ -8,7 +8,7 @@ This project is a machine learning-based air quality classification model that p
 - [Approach](#approach)
 - [Results](#results)
 
-- 
+
 
 - ## Overview
 This project implements a machine learning pipeline to classify air quality into categories. It includes preprocessing, feature engineering, hyperparameter tuning using GridSearchCV, and evaluation using metrics like accuracy, classification reports, and ROC curves.
